@@ -46,6 +46,13 @@ The projects aim to balance technical depth with clear business communication, d
 - Environment: Jupyter Notebook
 
 ## 📌 Project Highlights
+
+### 🔍 Anamoly Detection
+  Anomaly detection identifies unusual patterns or observations in data that deviate significantly from normal behaviour and may indicate errors, risks, or emerging issues.
+  
+### 👥 Customer Segmentation with Clustering
+  Customer segmentation using clustering groups customers with similar behaviours or characteristics to enable targeted marketing, personalised experiences, and better business decisions.
+  
 ### 🎓 Student Dropout Prediction
 
 Predicts student dropout risk across multiple lifecycle stages
