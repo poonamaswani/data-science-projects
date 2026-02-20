@@ -69,6 +69,14 @@ Uses emotion analysis to validate sentiment patterns linked to key topics
 Extends topic interpretation with an LLM-based workflow and benchmarks results with Gensim LDA
 Produces actionable recommendations that translate text insights into business improvements
 
+
+### 🏦 Credit Card Fraud Detection
+
+Detects fraudulent card transactions in a highly imbalanced dataset
+Compares supervised and anomaly-detection approaches
+Optimises decision thresholds using business cost trade-offs
+Uses SHAP to explain high-risk predictions for investigator teams
+
 (Additional projects will be added over time.)
 
 ## 📄 Project Reports
