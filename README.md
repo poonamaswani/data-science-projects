@@ -42,6 +42,7 @@ The projects aim to balance technical depth with clear business communication, d
 - Data Analysis: Pandas, NumPy
 - Visualisation: Matplotlib, Seaborn
 - Machine Learning: Scikit-learn, XGBoost, TensorFlow / Keras
+- NLP & Topic Modelling: BERTopic, Gensim (LDA), Hugging Face Transformers
 - Model Explainability: SHAP, Feature Importance
 - Environment: Jupyter Notebook
 
@@ -59,6 +60,14 @@ Predicts student dropout risk across multiple lifecycle stages
 Compares machine learning approaches
 Focuses on interpretability and early intervention
 Includes a business-focused report for non-technical stakeholders
+
+### 🧾 NLP Topic Modeling
+
+Analyses customer reviews from multiple platforms to uncover recurring themes and pain points
+Applies BERTopic for contextual topic discovery and compares outcomes across data slices
+Uses emotion analysis to validate sentiment patterns linked to key topics
+Extends topic interpretation with an LLM-based workflow and benchmarks results with Gensim LDA
+Produces actionable recommendations that translate text insights into business improvements
 
 (Additional projects will be added over time.)
 
